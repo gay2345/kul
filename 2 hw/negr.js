@@ -36,4 +36,4 @@ btnReset.addEventListener('click', () => {
         btnYellow.disabled = false;
         btnGreen.disabled = false; 
     },2000)
-})
+}) 
